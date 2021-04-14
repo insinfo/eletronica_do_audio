@@ -1,0 +1,17 @@
+C:\MyProjectsCSharp\Eletronica do Audio\Eletronica do Audio\bin\Debug\Eletronica do Audio.exe.config
+C:\MyProjectsCSharp\Eletronica do Audio\Eletronica do Audio\bin\Debug\Eletronica do Audio.exe
+C:\MyProjectsCSharp\Eletronica do Audio\Eletronica do Audio\bin\Debug\Eletronica do Audio.pdb
+C:\MyProjectsCSharp\Eletronica do Audio\Eletronica do Audio\obj\Debug\Eletronica do Audio.csprojResolveAssemblyReference.cache
+C:\MyProjectsCSharp\Eletronica do Audio\Eletronica do Audio\obj\Debug\MainWindow.g.cs
+C:\MyProjectsCSharp\Eletronica do Audio\Eletronica do Audio\obj\Debug\App.g.cs
+C:\MyProjectsCSharp\Eletronica do Audio\Eletronica do Audio\obj\Debug\Eletronica do Audio_MarkupCompile.cache
+C:\MyProjectsCSharp\Eletronica do Audio\Eletronica do Audio\obj\Debug\Eletronica do Audio_MarkupCompile.lref
+C:\MyProjectsCSharp\Eletronica do Audio\Eletronica do Audio\obj\Debug\MainWindow.baml
+C:\MyProjectsCSharp\Eletronica do Audio\Eletronica do Audio\obj\Debug\Eletronica do Audio.g.resources
+C:\MyProjectsCSharp\Eletronica do Audio\Eletronica do Audio\obj\Debug\Eletronica_do_Audio.Properties.Resources.resources
+C:\MyProjectsCSharp\Eletronica do Audio\Eletronica do Audio\obj\Debug\Eletronica do Audio.csproj.GenerateResource.Cache
+C:\MyProjectsCSharp\Eletronica do Audio\Eletronica do Audio\obj\Debug\Eletronica do Audio.exe
+C:\MyProjectsCSharp\Eletronica do Audio\Eletronica do Audio\obj\Debug\Eletronica do Audio.pdb
+C:\MyProjectsCSharp\Eletronica do Audio\Eletronica do Audio\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\MyProjectsCSharp\Eletronica do Audio\Eletronica do Audio\bin\Debug\imagens\CalcCapacitanceOffCrossOver.png
+C:\MyProjectsCSharp\Eletronica do Audio\Eletronica do Audio\bin\Debug\imagens\codigo_de_cores_resistores.png
